@@ -46,16 +46,7 @@ The analysis focuses on the following questions:
 
 ## Dataset
 
-> Replace this section with your actual dataset details.
-
-- **File name:** `customer_data.csv` (or your actual file name)
-- **Key columns:**
-  - `PurchaseAmount` – numeric column with the amount spent
-  - `Gender` – e.g., `"Male"` / `"Female"`
-  - `ProductCategory` – category of the purchased product
-  - `Region` – customer’s region
-  - `Churn` – whether the customer has churned (`Yes` / `No`)
-  - `EmailCampaign` – `"A"` or `"B"`
+`
 
 ---
 
@@ -75,7 +66,7 @@ Typical techniques used:
 - Skewness and kurtosis calculation
 - t-test / ANOVA for group comparisons (e.g., gender, region, campaigns)
 - Chi-square test for association between `ProductCategory` and `Churn`
-- Normality checks (histogram, Q–Q plot, Shapiro–Wilk test, etc.)
+- Normality checks (histogram, Q–Q plot,, etc.)
 - Central Limit Theorem demonstration using sampling distributions
 - Confidence interval estimation for the mean
 
@@ -83,7 +74,7 @@ Typical techniques used:
 
 ## Repository Structure
 
-> Update file names to match your project.
+
 
 ```text
 .
